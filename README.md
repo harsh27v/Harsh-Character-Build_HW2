@@ -1,4 +1,5 @@
 ## 🏴‍☠️ Straw Hat Crew — One Piece Character Showcase
+![Alt text](https://github.com/harsh27v/Harsh-Character-Build_HW2/blob/28529cdda381907b7fa9d32e51360f4c6c6e7637/images/1.jpg)
 Welcome to the Straw Hat Crew interactive webpage!
 It features a modern layout, flip-card animations, and lightbox character bios, all styled with immersive fan experience.
 ## 💡 Purpose
