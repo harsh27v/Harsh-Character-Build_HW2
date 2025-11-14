@@ -175,6 +175,24 @@ header {
   color: #ffffff;
 }
 
+#instructions {
+  background-color: #003300; 
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 0; 
+}
+
+#instructions h2 {
+    color: #cc0000;
+    margin-top: 0;
+}
+
+#instructions p {
+    max-width: 800px;
+    margin: 10px auto 0 auto;
+    line-height: 1.6;
+}
+
 /* Footer */
 #main-footer {
   background-color: #002200;
